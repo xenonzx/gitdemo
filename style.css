@@ -29,7 +29,7 @@ body{
 .center {
     text-align: center;
 }
-.button  {
+/* .button  {
     background: rgb(94, 20, 20);
     border: 1px solid  rgb(94, 20, 20);
     border-radius: 3px;
@@ -48,4 +48,14 @@ body{
     background: white;
     border: 1px solid  rgb(94, 20, 20);
     color: rgb(94, 20, 20)
-}
+} */
+
+.button {
+    background-color: rgb(94, 20, 20);
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border-radius: 5px;
+    outline: none;
+    
+  }
