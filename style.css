@@ -9,6 +9,7 @@
 .subheader {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 45px;
+    text-transform: capitalize;
 }
 body{
     background-color: rgba(45, 17, 97, 0.2);
