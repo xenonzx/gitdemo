@@ -33,10 +33,12 @@ input
     font-size: 23px;
     border-radius: 25px;
     border: ridge #20639b;
+    padding: 3px 5px;
 }
 textarea
 {   
     font-size: 23px;
     border-radius: 25px;
     border: ridge #20639b;
+    padding: 10px;
 }
