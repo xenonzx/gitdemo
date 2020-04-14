@@ -5,15 +5,16 @@
     font-size: 47px;
     color: burlywood;
     text-align: left;
-    text-transform: uppercase  ;
+    text-transform: uppercase;
+    margin: 0px;
 }
 fieldset
-{
-    height: 325px;
-    width: 870px;
+{   
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 39px;
     font-weight: lighter;
+    background-color: #173f5f;
+    color: white;
 }
 .footer
 {
@@ -23,11 +24,19 @@ fieldset
     color: burlywood;
     text-align: left;
     text-transform: uppercase;
-    margin: 15px 0px 0px 0px;
+    margin: 12px 0px 0px 0px;
 }
 input
 {
     width: 500px;
-    height: 20px;
-    font-size: 60;
+    height: 45px;
+    font-size: 23px;
+    border-radius: 25px;
+    border: ridge #20639b;
+}
+textarea
+{   
+    font-size: 23px;
+    border-radius: 25px;
+    border: ridge #20639b;
 }
