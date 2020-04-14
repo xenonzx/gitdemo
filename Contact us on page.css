@@ -5,12 +5,29 @@
     font-size: 47px;
     color: burlywood;
     text-align: left;
-    text-transform: uppercase;
+    text-transform: uppercase  ;
 }
 fieldset
 {
-    height: 350px;
+    height: 325px;
     width: 870px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 39px;
+    font-weight: lighter;
+}
+.footer
+{
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 38px;
+    color: burlywood;
+    text-align: left;
+    text-transform: uppercase;
+    margin: 15px 0px 0px 0px;
+}
+input
+{
+    width: 500px;
+    height: 20px;
+    font-size: 60;
 }
